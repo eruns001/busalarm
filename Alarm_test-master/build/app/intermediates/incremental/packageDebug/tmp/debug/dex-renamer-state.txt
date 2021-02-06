@@ -1,0 +1,4 @@
+#Sat Feb 06 10:39:37 KST 2021
+base.0=D\:\\dsc2\\Alarm_test-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
